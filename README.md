@@ -1,6 +1,6 @@
 ### Olá! Seja muito bem vindo(a) ao meu Git Hub 😀
 
-Me chamo Lucas, tenho 21 anos e estou graduando Engenharia da Computação. 
+Me chamo Lucas, tenho 22 anos e estou graduando Engenharia da Computação. 
 Sou um jovem apaixonado por programação e tecnologia, adoro desafios e busco cada vez mais aprimorar os conhecimentos e aprender novas tecnologias!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/llucaschagass)
