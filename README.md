@@ -21,6 +21,7 @@ Sou um jovem apaixonado por programação e tecnologia, adoro desafios e busco c
  </div>
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llucaschagass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Outras competências:
